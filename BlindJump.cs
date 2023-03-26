@@ -1,4 +1,6 @@
-﻿using PulsarModLoader.Chat.Commands.CommandRouter;
+﻿//Copyright 2023 (c) Floppydisk
+//GPL 3.0-only
+using PulsarModLoader.Chat.Commands.CommandRouter;
 
 namespace warper
 {
@@ -15,7 +17,7 @@ namespace warper
 
         public override string Description()
         {
-            return "Warps to specified sector using RPC";
+            return "Blind Jump";
         }
 
         public override void Execute(string arguments)

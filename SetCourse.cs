@@ -1,4 +1,6 @@
-﻿using PulsarModLoader.Chat.Commands.CommandRouter;
+﻿//Copyright 2023 (c) Floppydisk
+//GPL 3.0-only
+using PulsarModLoader.Chat.Commands.CommandRouter;
 
 namespace warper
 {
